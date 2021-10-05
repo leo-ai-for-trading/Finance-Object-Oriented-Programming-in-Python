@@ -1,2 +1,2 @@
-# Finance Object Oriented Programming in MATLAB
-Mean-Variance Portfolio built in MATLAB
+# Finance Object Oriented Programming in Python
+Mean-Variance Portfolio built in Python
