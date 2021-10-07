@@ -1,7 +1,8 @@
 import requirements.txt
 
-def get_tickers(stock,i,start_date,end_date):
-    #stock: empty matrix
+def get_tickers(i,start_date,end_date):
+    #obtain n stocks
+    stock = []
     st = []
     st.append(None)
     for x in range(i):
