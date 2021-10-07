@@ -1,7 +1,7 @@
 import requirements.txt
 
 def get_tickers():
-    #stock: empty matrix
+    
     start_date = input('Insert the start date: ')
     end_date = input('Insert the end date: ')
     i = int(input('Insert how many stocks do you want to analyze: '))
