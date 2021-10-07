@@ -1,9 +1,12 @@
 import requirements.txt
 
-def get_tickers(i,start_date,end_date):
-    #obtain n stocks
-    stock = []
+def get_tickers():
+    #stock: empty matrix
+    start_date = input('Insert the start date: ')
+    end_date = input('Insert the end date: ')
+    i = int(input('Insert how many stocks do you want to analyze: '))
     st = []
+    stock = []
     st.append(None)
     for x in range(i):
         ask = input('Insert ticker name: ')
