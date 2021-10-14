@@ -55,5 +55,6 @@ def max_sp_portfolio():
     min_vol_port = portfolios.iloc[portfolios['Volatility'].idxmin()]
     risk_free = 0
     optimal_risky_portf = portfolios.iloc[((portfolios['Returns']-risk_free)/portfolios['Volatility']).idxmax()]
+    print(optimal_risky_port)
     return optimal_risky_portf
 
