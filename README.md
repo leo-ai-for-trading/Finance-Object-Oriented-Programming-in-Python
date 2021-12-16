@@ -7,3 +7,4 @@ Table of Content
 2. [The Smirk](https://thesmirk.herokuapp.com/) A Quantitative Platform for backtesting strategies without coding
 3. [The Smile](https://thesmile.herokuapp.com/) Second part of "The Smirk" project: applied ML models, using fbprophet library, for predicting stocks
 4. [FIRE](https://firingfire.herokuapp.com/)  Third part of "The Smirk" project: Max Sharpe Ratio Portfolio of 5 stocks
+5. [Trading the Crisis](https://tradingideas.herokuapp.com/) Trading during the crisis with a Macroeconomics approach
